@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="vehicledata",
-    version="0.1.0",
+    version="0.1.1",
     author="Deepak Gautam",
     author_email="rohit45deepak@gmail.com",
     url="https://www.sddoc.in",
