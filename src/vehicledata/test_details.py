@@ -6,9 +6,11 @@ class TestMainFunctions(unittest.TestCase):
 
     def test_getChallan(self):
         print(getChallan("DL8CX5463"))
+        print(getChallan("DL8CX5463"))
         pass
 
     def test_get_vehicle_details(self):
+        print(get_vehicle_details("DL8CX5463"))
         print(get_vehicle_details("DL8CX5463"))
         
         pass

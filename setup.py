@@ -8,6 +8,8 @@ setup(
     url="https://www.sddoc.in",
     
     description="A Python package for retrieving vehicle information, including challans and additional details.",
+    long_description="This package provides a Python interface for retrieving information about vehicles, including details about challans and additional information. check docs in https://github.com/deepakstark01/getvehicledata ",
+    long_description_content_type="text/plain",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
