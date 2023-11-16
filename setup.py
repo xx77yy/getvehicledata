@@ -19,7 +19,7 @@ setup(
     install_requires=["requests"],
     entry_points={
         'console_scripts': [
-            'getvehicle=vehciledata:src.details.getvehicle',
+            'getvehicle=vehciledata:src.details',
         ],
     },
 )
